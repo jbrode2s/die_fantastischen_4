@@ -1,7 +1,7 @@
 # die_fantastischen_4
 Semesterprojekt 
 
-Die Aufgabe im Semesterprojekt ist die Digitalisierung eines Parkhauses. Die Aufgabe soll im Dreierteam in 12 Wochen bearbeitet werden. Jedes Teammitglied soll immer die volle Lösung abgeben, d.h. hochladen (keine gemeinsame Lösungsabgabe).
+Die Aufgabe im Semesterprojekt ist die Digitalisierung eines Parkhauses. Die Aufgabe soll im Dreierteam in 12 Wochen bearbeitet werden. Jedes Teammitglied soll immer die volle Lösung abgeben, d.h. hochladen (keine gemeinsame Lösungsabgabe)
 
 # IST-Analyse: Das voll-analoge Parkhaus
 
