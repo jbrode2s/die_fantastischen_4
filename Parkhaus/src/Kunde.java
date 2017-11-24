@@ -1,4 +1,3 @@
-
-public class Kunde {
-
+public class Kunde implements KundemitParkschein{
+	
 }
