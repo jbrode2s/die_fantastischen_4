@@ -1,7 +1,7 @@
 import java.util.Date;
 
 
-public class KundemitParkschein implements Parkschein{
+public abstract class KundemitParkschein implements Parkschein{
 
 	@Override
 	public String Kennzeichen() {
