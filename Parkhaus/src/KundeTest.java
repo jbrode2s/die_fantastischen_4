@@ -24,10 +24,4 @@ public class KundeTest {
 	public void EinfahrtTest() {
 		fail("Not yet implemented");
 	}
-	
-	@Test
-	public void EinfahrtTest() {
-		fail("Not yet implemented");
-	}
-
 }
